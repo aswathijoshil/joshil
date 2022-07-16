@@ -1,1 +1,3 @@
-# joshil
+# maven-project
+
+Simple Maven Project
